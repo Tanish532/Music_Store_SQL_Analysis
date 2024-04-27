@@ -7,4 +7,4 @@ Dataset: The dataset includes information about customers, genres, and music tra
 SQL Queries: Explore the data using SQL queries to answer key questions.
 Business Insights: Understand customer behavior, track popularity, and identify growth opportunities.
 
-:)
+:) 
